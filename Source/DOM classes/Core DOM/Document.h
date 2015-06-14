@@ -59,7 +59,7 @@
 @class Element;
 #import "Element.h"
 @class Comment;
-#import "Comment.h"
+#import "SVGComment.h"
 @class CDATASection;
 #import "CDATASection.h"
 @class DocumentFragment;
