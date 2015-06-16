@@ -42,6 +42,7 @@
 #import "SVGKLayeredImageView.h"
 #import "SVGKLayer.h"
 #import "TinySVGTextAreaElement.h"
+#import "NSCharacterSet+SVGKExtensions.h"
 
 @interface SVGKit : NSObject
 
